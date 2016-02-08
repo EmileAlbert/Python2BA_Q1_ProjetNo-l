@@ -1,0 +1,407 @@
+{
+    "Albanie": {
+        "capital": "Tirana",
+        "currency": "Lek",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/30/Drapeau_de_l%27Albanie.svg",
+        "language": "Albanais",
+        "population": "3.029",
+        "superficy": "28748",
+        "visit": false
+    },
+    "Allemagne": {
+        "capital": "Berlin",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/4/4c/Drapeau_de_l%27Allemagne.svg",
+        "language": "Allemand",
+        "population": "81.197",
+        "superficy": "357340",
+        "visit": true
+    },
+    "Andorre": {
+        "capital": "Andorre-la-Vieille",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/75/Drapeau_de_l%27Andorre.svg",
+        "language": "Catalan",
+        "population": "0.086",
+        "superficy": "468",
+        "visit": false
+    },
+    "Autriche": {
+        "capital": "Vienne",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/b/b8/Drapeau_de_l%27Autriche.svg",
+        "language": "Allemand",
+        "population": "8.666",
+        "superficy": "83879",
+        "visit": true
+    },
+    "Belgique": {
+        "capital": "Bruxelles",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/ad/Drapeau_de_la_Belgique.svg",
+        "language": "Neerlandais, Francais, Allemand",
+        "population": "11.240",
+        "superficy": "30528",
+        "visit": true
+    },
+    "Bielorussie": {
+        "capital": "Minsk",
+        "currency": "Rouble Bielorusse",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/0/08/Drapeau_de_la_Bielorussie.svg",
+        "language": "Bielorusse, Russe",
+        "population": "9.590",
+        "superficy": "207600",
+        "visit": false
+    },
+    "Bosnie-Herzegovine": {
+        "capital": "Sarajevo",
+        "currency": "Mark convertible",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/78/Drapeau_de_la_Bosnie-Herzegovine.svg",
+        "language": "Bosnien, Serbe, Croate",
+        "population": "3.876",
+        "superficy": "51197",
+        "visit": false
+    },
+    "Bulgarie": {
+        "capital": "Sofia",
+        "currency": "Lev Bulgare",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/f/f7/Drapeau_de_la_Bulgarie.svg",
+        "language": "Bulgare",
+        "population": "7.202",
+        "superficy": "110944",
+        "visit": false
+    },
+    "Chypre": {
+        "capital": "Nicosie",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/e/e2/Drapeau_de_Chypre.svg",
+        "language": "Grec, Turc",
+        "population": "1.141",
+        "superficy": "9251",
+        "visit": false
+    },
+    "Croatie": {
+        "capital": "Zagreb",
+        "currency": "Kuna",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/d/df/Drapeau_de_la_Croatie.svg",
+        "language": "Croate",
+        "population": "4.225",
+        "superficy": "56594",
+        "visit": true
+    },
+    "Danemark": {
+        "capital": "Copenhague",
+        "currency": "Couronne Danoise",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/9/9f/Drapeau_du_Danemark.svg",
+        "language": "Danois",
+        "population": "5.678",
+        "superficy": "2210573",
+        "visit": false
+    },
+    "Espagne": {
+        "capital": "Madrid",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/ac/Drapeau_de_l%27Espagne.svg",
+        "language": "Espagnol",
+        "population": "46.440",
+        "superficy": "505911",
+        "visit": true
+    },
+    "Estonie": {
+        "capital": "Tallinn",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/1/1b/Drapeau_de_l%27Estonie.svg",
+        "language": "Estonien",
+        "population": "1.313",
+        "superficy": "45339",
+        "visit": false
+    },
+    "Finlande": {
+        "capital": "Helsinki",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/9/91/Drapeau_de_la_Finlande.svg",
+        "language": "Finnois, Suedois",
+        "population": "5.486",
+        "superficy": "338144",
+        "visit": false
+    },
+    "France": {
+        "capital": "Paris",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/33/Drapeau_de_la_France.svg",
+        "language": "Francais",
+        "population": "66.518",
+        "superficy": "675000",
+        "visit": true
+    },
+    "Grece": {
+        "capital": "Athenes",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/0/0f/Drapeau_de_la_Grece.svg",
+        "language": "Grec",
+        "population": "10.815",
+        "superficy": "131957",
+        "visit": true
+    },
+    "Hongrie": {
+        "capital": "Budapest",
+        "currency": "Forint",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/8/88/Drapeau_de_la_Hongrie.svg",
+        "language": "Hongrois",
+        "population": "9.938",
+        "superficy": "93029",
+        "visit": false
+    },
+    "Irlande": {
+        "capital": "Dublin",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/e/e0/Drapeau_de_l%27Irlande.svg",
+        "language": "Irlandais, Anglais",
+        "population": "4.722",
+        "superficy": "70273",
+        "visit": true
+    },
+    "Islande": {
+        "capital": "Reykjavik",
+        "currency": "Couronne Islandaise",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/73/Drapeau_de_l%27Islande.svg",
+        "language": "Islandais",
+        "population": "0.329",
+        "superficy": "103125",
+        "visit": false
+    },
+    "Italie": {
+        "capital": "Rome",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/9/9f/Drapeau_de_l%27Italie.svg",
+        "language": "Italien",
+        "population": "60.796",
+        "superficy": "301336",
+        "visit": true
+    },
+    "Lettonie": {
+        "capital": "Riga",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/78/Drapeau_de_la_Lettonie.svg",
+        "language": "Letton",
+        "population": "2.001",
+        "superficy": "64597",
+        "visit": false
+    },
+    "Liechtenstein": {
+        "capital": "Vaduz",
+        "currency": "Franc Suisse",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/a9/Drapeau_du_Liechtenstein.svg",
+        "language": "Allemand",
+        "population": "0.037",
+        "superficy": "160",
+        "visit": false
+    },
+    "Lituanie": {
+        "capital": "Vilnius",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/4/4d/Drapeau_de_la_Lituanie.svg",
+        "language": "Lituanien",
+        "population": "2.939",
+        "superficy": "65303",
+        "visit": false
+    },
+    "Luxembourg": {
+        "capital": "Luxembourg",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/2/20/Drapeau_du_Luxembourg.svg",
+        "language": "Luxembourgeois, Francais, Allemand",
+        "population": "0.563",
+        "superficy": "2586",
+        "visit": true
+    },
+    "Macedoine": {
+        "capital": "Skopje",
+        "currency": "Denar",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/3d/Drapeau_de_la_Macedoine.svg",
+        "language": "Macedonien",
+        "population": "2.082",
+        "superficy": "25713",
+        "visit": false
+    },
+    "Malte": {
+        "capital": "La Valette",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/70/Drapeau_de_Malte.svg",
+        "language": "Maltais, Anglais",
+        "population": "0.447",
+        "superficy": "316",
+        "visit": false
+    },
+    "Moldavie": {
+        "capital": "Chisinau",
+        "currency": "Leu Moldave",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/6/68/Drapeau_de_la_Moldavie.svg",
+        "language": "Roumain",
+        "population": "3.657",
+        "superficy": "33843",
+        "visit": true
+    },
+    "Monaco": {
+        "capital": "Monaco",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/3d/Drapeau_de_Monaco.svg",
+        "language": "Francais",
+        "population": "0.037",
+        "superficy": "2",
+        "visit": false
+    },
+    "Montenegro": {
+        "capital": "Podgorica",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/a2/Drapeau_du_Montenegro.svg",
+        "language": "Montenegrin, Serbe, Croate, Bosnien, Albanais",
+        "population": "0.662",
+        "superficy": "13812",
+        "visit": false
+    },
+    "Norvege": {
+        "capital": "Oslo",
+        "currency": "Couronne Norvegienne",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/d/d4/Drapeau_de_la_Norvege.svg",
+        "language": "Norvegien",
+        "population": "5.189",
+        "superficy": "385199",
+        "visit": false
+    },
+    "Pays-Bas": {
+        "capital": "Amsterdam",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/6/64/Drapeau_des_Pays-Bas.svg",
+        "language": "Neerlandais",
+        "population": "16.902",
+        "superficy": "41530",
+        "visit": true
+    },
+    "Pologne": {
+        "capital": "Varsovie",
+        "currency": "Zloty",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/7/70/Drapeau_de_la_Pologne.svg",
+        "language": "Polonais",
+        "population": "38.006",
+        "superficy": "312679",
+        "visit": false
+    },
+    "Portugal": {
+        "capital": "Lisbonne",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/ad/Drapeau_du_Portugal.svg",
+        "language": "Portugais",
+        "population": "10.375",
+        "superficy": "92358",
+        "visit": true
+    },
+    "Roumanie": {
+        "capital": "Bucarest",
+        "currency": "Leu Roumain",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/1/18/Drapeau_de_la_Roumanie.svg",
+        "language": "Roumain",
+        "population": "19.943",
+        "superficy": "238391",
+        "visit": true
+    },
+    "Royaume-Uni": {
+        "capital": "Londres",
+        "currency": "Livre Sterling",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/6/6f/Drapeau_du_Royaume-Uni.svg",
+        "language": "Anglais",
+        "population": "65.100",
+        "superficy": "246690",
+        "visit": true
+    },
+    "Russie": {
+        "capital": "Moscou",
+        "currency": "Rouble",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/32/Drapeau_de_la_Russie.svg",
+        "language": "Russe",
+        "population": "146.267",
+        "superficy": "17125187",
+        "visit": false
+    },
+    "Republique Tcheque": {
+        "capital": "Prague",
+        "currency": "Couronne Tcheque",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/e/e3/Drapeau_de_la_Republique_tcheque.svg",
+        "language": "Tcheque",
+        "population": "10.538",
+        "superficy": "78870",
+        "visit": false
+    },
+    "Saint-Marin": {
+        "capital": "Saint-Marin",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/f/f6/Drapeau_de_Saint-Marin.svg",
+        "language": "Italien",
+        "population": "0.033",
+        "superficy": "61",
+        "visit": false
+    },
+    "Serbie": {
+        "capital": "Belgrade",
+        "currency": "Dinar Serbe",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/b/bb/Drapeau_de_la_Serbie.svg",
+        "language": "Serbe",
+        "population": "7.112",
+        "superficy": "77474",
+        "visit": false
+    },
+    "Slovaquie": {
+        "capital": "Bratislava",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/c/c5/Drapeau_de_la_Slovaquie.svg",
+        "language": "Slovaque",
+        "population": "5.411",
+        "superficy": "49035",
+        "visit": false
+    },
+    "Slovenie": {
+        "capital": "Ljubjana",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/a/a8/Drapeau_de_la_Slovenie.svg",
+        "language": "Slovene (Hongrois, Italien)",
+        "population": "2.063",
+        "superficy": "20273",
+        "visit": true
+    },
+    "Suisse": {
+        "capital": "Berne",
+        "currency": "Franc Suisse",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/b/b0/Drapeau_de_la_Suisse.svg",
+        "language": "Allemand, Italien, Fran�ais",
+        "population": "8.212",
+        "superficy": "41285",
+        "visit": true
+    },
+    "Suede": {
+        "capital": "Stockholm",
+        "currency": "Couronne Suedoise",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/0/0f/Drapeau_de_la_Su%C3%A8de.svg",
+        "language": "Suedois",
+        "population": "9.793",
+        "superficy": "449965",
+        "visit": false
+    },
+    "Ukraine": {
+        "capital": "Kiev",
+        "currency": "Hryvnia",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/3/33/Drapeau_de_l%27Ukraine.svg",
+        "language": "Ukrainien",
+        "population": "42.808",
+        "superficy": "603549",
+        "visit": false
+    },
+    "Vatican": {
+        "capital": "Le Vatican",
+        "currency": "Euro",
+        "flag": "https://download.vikidia.org/vikidia/fr/images/6/6e/Drapeau_du_Vatican.svg",
+        "language": "Italien, Latin, Francais, Allemand",
+        "population": "0.001",
+        "superficy": "0.44",
+        "visit": true
+    }
+}

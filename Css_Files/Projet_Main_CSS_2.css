@@ -1,0 +1,68 @@
+/*Style du corps*/
+body {
+    font-family : Trebuchet MS ; Georgia ; Impact ; Verdana;
+    background-image: url('EuropeAtNight.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity : 0.7;
+
+    color : white;
+}
+
+/*Style barre de navigation*/
+#nav
+{
+   margin:0;
+   padding:0;
+   background:#FEFEFE url('carre_blanc.png'; width : 100; ) 0 0 repeat-x;}
+
+#nav li
+{
+   display:inline;
+   /*margin: 0;
+   padding : 0;*/}
+
+#nav a:link, #nav a:visited
+{
+   font-size : 20px;
+   color:#3C19C7;
+   background:#FEFEFE;
+   text-decoration : none;
+   padding-left : 7.3%;
+   padding-right : 7.3%;
+   padding-top : 4px;
+}
+
+/*Colonne des liens*/
+#lienspays
+{
+    width: 20em;        /* room for 3 columns */
+    }
+#lienspays li
+{
+    float: left;
+    width: 10em;        /* accommodate the widest item */
+
+    }
+#lienspays br
+{
+
+    clear: both;
+    }
+                              /* stop the floating after the list */
+                              /* separate the list from what follows it */
+
+
+
+
+/*Style des liens*/
+a:link {color: white; text-decoration : none;}
+a:visited {color: white;}
+a:hover {color: white; text-decoration : underline; font-weight : bold; }
+
+
+footer {
+    padding-top : 10px;
+    font-size : 10px;
+    clear : both ;}
+
